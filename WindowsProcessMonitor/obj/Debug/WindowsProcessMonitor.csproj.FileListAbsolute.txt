@@ -1,0 +1,6 @@
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\bin\Debug\WindowsProcessMonitor.exe
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\bin\Debug\WindowsProcessMonitor.pdb
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\obj\Debug\WindowsProcessMonitor.csprojResolveAssemblyReference.cache
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\obj\Debug\WindowsProcessMonitor.csproj.CoreCompileInputs.cache
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\obj\Debug\WindowsProcessMonitor.exe
+F:\DocRepos\Utilities\PerformanceTracker\WindowsProcessMonitor\WindowsProcessMonitor\obj\Debug\WindowsProcessMonitor.pdb
